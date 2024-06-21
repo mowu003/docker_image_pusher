@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 python:alpine3.20
-xiaoyaliu/alist
+xiaoyaliu/alist:hostmode
