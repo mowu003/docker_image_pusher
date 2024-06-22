@@ -10,3 +10,4 @@ xiaoyaliu/alist:hostmode
 xiaoyaliu/glue
 mysql
 amilys/embyserver
+linuxserver/resilio-sync
