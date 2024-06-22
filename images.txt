@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 python:alpine3.20
 xiaoyaliu/alist:hostmode
+xiaoyaliu/glue
