@@ -9,3 +9,4 @@ python:alpine3.20
 xiaoyaliu/alist:hostmode
 xiaoyaliu/glue
 mysql
+amilys/embyserver
