@@ -13,3 +13,4 @@ amilys/embyserver
 linuxserver/resilio-sync
 nyanmisaka/jellyfin
 ddsderek/xiaoya-emd
+library/alpine
