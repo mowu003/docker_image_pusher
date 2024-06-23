@@ -13,6 +13,7 @@ amilys/embyserver
 linuxserver/resilio-sync
 nyanmisaka/jellyfin
 ddsderek/xiaoya-emd
-library/alpine
+alpine
 haroldli/xiaoya-tvbox
  msterzhang/onelist
+ailg/alist
