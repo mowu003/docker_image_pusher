@@ -17,3 +17,4 @@ alpine
 haroldli/xiaoya-tvbox
  msterzhang/onelist
 ailg/alist
+ailg/ggbond
