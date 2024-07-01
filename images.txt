@@ -20,3 +20,4 @@ ailg/alist
 ailg/ggbond
 homeassistant/home-assistant
 linuxserver/calibre-web
+hectorqin/reader
