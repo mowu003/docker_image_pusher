@@ -19,3 +19,4 @@ haroldli/xiaoya-tvbox
 ailg/alist
 ailg/ggbond
 homeassistant/home-assistant
+calibre-web
