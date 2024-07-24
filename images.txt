@@ -22,3 +22,4 @@ homeassistant/home-assistant
 linuxserver/calibre-web
 hectorqin/reader
 dezhao/bookbrowser_cn
+h55205l/ffandown
