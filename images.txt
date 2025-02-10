@@ -24,3 +24,4 @@ hectorqin/reader
 dezhao/bookbrowser_cn
 h55205l/ffandown
 linuxserver/qbittorrent
+linuxserver/jackett:latest
